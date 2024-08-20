@@ -10,7 +10,7 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    background-image: url(/img/backgred.png);
+    background-image: url(https://github.com/xDzaky/tugas-training/blob/main/img/backgred.png?raw=true);
 }
 
 nav {
